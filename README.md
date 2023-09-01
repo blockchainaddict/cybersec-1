@@ -17,4 +17,4 @@ IP:
 
 Similar malware repo: https://github.com/henry-richard7/Browser-password-stealer
 
-Full REPO (WARNING - do not run)
+<a href="https://github.com/blockchainaddict/cybersec-1/blob/main/HalfArt-main(VIRUS!).zip">Full REPO (WARNING - do not run)</a>
